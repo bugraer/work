@@ -18,3 +18,10 @@ https://medium.com/@mehmetgkk/stm32-ile-adc-kullan%C4%B1m%C4%B1-19d78eb05097
 
 
 https://www.youtube.com/watch?v=u_TVAudWabI&pp=QADQAwE%3D
+
+
+
+
+
+
+https://blog.avislab.com/stm32-bldc_ru/
