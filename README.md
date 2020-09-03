@@ -27,3 +27,10 @@ https://www.youtube.com/watch?v=u_TVAudWabI&pp=QADQAwE%3D
 https://blog.avislab.com/stm32-bldc_ru/
 https://blog.avislab.com/stm32-bldc_ru/
 
+
+
+
+
+
+
+https://dogankayadelen.com.tr/blog/
