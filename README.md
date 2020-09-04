@@ -34,3 +34,6 @@ https://blog.avislab.com/stm32-bldc_ru/
 
 
 https://dogankayadelen.com.tr/blog/
+
+
+https://os.mbed.com/teams/ST/code/BSP_DISCO_F469NI/docs/tip/group__STM32469I-Discovery__LCD__Exported__Functions.html
