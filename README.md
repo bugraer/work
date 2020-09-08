@@ -59,3 +59,4 @@ https://os.mbed.com/teams/ST/code/BSP_DISCO_F469NI/docs/tip/group__STM32469I-Dis
 
 
 https://www.youtube.com/watch?v=h3ZuM2Z0UGs
+https://www.empastore.com/stm32-motor-kontrol-kiti-p-nucleo-ihm001
