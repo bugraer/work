@@ -37,3 +37,25 @@ https://dogankayadelen.com.tr/blog/
 
 
 https://os.mbed.com/teams/ST/code/BSP_DISCO_F469NI/docs/tip/group__STM32469I-Discovery__LCD__Exported__Functions.html
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+https://www.youtube.com/watch?v=h3ZuM2Z0UGs
