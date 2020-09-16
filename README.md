@@ -65,3 +65,13 @@ https://www.empastore.com/stm32-motor-kontrol-kiti-p-nucleo-ihm001
 
 https://community.ugfx.io/topic/296-stm32f103-st7735/
 https://www.freelancer.com/projects/c-programming/engine-rpm-read-with-can/?ngsw-bypass=&w=f
+
+
+
+
+
+
+
+
+
+https://blog.csdn.net/wgp2hpp/article/details/103607707
