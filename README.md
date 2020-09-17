@@ -78,3 +78,4 @@ https://blog.csdn.net/wgp2hpp/article/details/103607707
 
 https://www.instructables.com/id/Converting-Images-to-Flash-Memory-Iconsimages-for-/
 https://www.youtube.com/watch?v=9iHtNrSicXM
+https://github.com/megadrifter/Arduino_STM32/blob/megadrifter-GMLAN-test/STM32F1/libraries/HardwareCAN/examples/STMdualCAN/STMdualCAN.ino#L60
