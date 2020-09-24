@@ -84,3 +84,7 @@ https://github.com/megadrifter/Arduino_STM32/blob/megadrifter-GMLAN-test/STM32F1
 
 
 https://github.com/gkfxlt/CAN/blob/e202327d474eb1a073fd3adcd78d34876d4474b7/Zero-Mode/%E6%96%B0%E5%BB%BA%E6%96%87%E4%BB%B6%E5%A4%B9/temp/Src/main.c
+
+
+
+https://github.com/Alex2269/stm32_tft_spi/tree/ef61e8196d58d674f482617018a378ef739142b6/stm32f103-lcd-adc/Inc
