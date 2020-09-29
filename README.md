@@ -88,3 +88,6 @@ https://github.com/gkfxlt/CAN/blob/e202327d474eb1a073fd3adcd78d34876d4474b7/Zero
 
 
 https://github.com/Alex2269/stm32_tft_spi/tree/ef61e8196d58d674f482617018a378ef739142b6/stm32f103-lcd-adc/Inc
+
+
+https://www.youtube.com/watch?v=JgYPuy6BNcA&pp=QAA%3D
