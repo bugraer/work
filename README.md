@@ -91,3 +91,7 @@ https://github.com/Alex2269/stm32_tft_spi/tree/ef61e8196d58d674f482617018a378ef7
 
 
 https://www.youtube.com/watch?v=JgYPuy6BNcA&pp=QAA%3D
+
+
+
+https://www.dailyduino.com/index.php/2020/06/01/stm32-can-bus/
