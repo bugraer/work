@@ -98,3 +98,5 @@ https://www.dailyduino.com/index.php/2020/06/01/stm32-can-bus/
 https://controllerstech.com/ds18b20-and-stm32/
 https://www.youtube.com/watch?v=0xq_v1pyl-E
 http://www.mediafire.com/file/afxbaxu8oynla9a/BluePill_FlashReadWrite.7z/file
+
+https://github.com/RashadShubita?tab=repositories
