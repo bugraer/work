@@ -100,3 +100,7 @@ https://www.youtube.com/watch?v=0xq_v1pyl-E
 http://www.mediafire.com/file/afxbaxu8oynla9a/BluePill_FlashReadWrite.7z/file
 
 https://github.com/RashadShubita?tab=repositories
+
+
+
+https://rmtulay.wordpress.com/2015/05/21/7-segment-display-tarama-ile-4-adet-display-kullanimi-dspic30f2010/
