@@ -104,3 +104,6 @@ https://github.com/RashadShubita?tab=repositories
 
 
 https://rmtulay.wordpress.com/2015/05/21/7-segment-display-tarama-ile-4-adet-display-kullanimi-dspic30f2010/
+
+
+https://cobankod.files.wordpress.com/2018/06/kesmelerve7segdisplay2016.pdf
