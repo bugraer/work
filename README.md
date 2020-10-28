@@ -107,3 +107,5 @@ https://cobankod.files.wordpress.com/2018/06/kesmelerve7segdisplay2016.pdf
 
 
 https://simple-circuit.com/pic-mcu-ssd1306-dht22-mikroc/
+
+https://www.youtube.com/watch?v=Sytn4vCkptk
