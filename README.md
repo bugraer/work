@@ -122,7 +122,7 @@ https://elektronikhobi.net/assembly-programlamaspi-veri-transferi/
 
 
 
-
+http://omerbayraktar.com/2015/01/07/mosfet-ve-igbt-surme-teknikleri/
 
 
 
