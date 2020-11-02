@@ -40,6 +40,14 @@ https://os.mbed.com/teams/ST/code/BSP_DISCO_F469NI/docs/tip/group__STM32469I-Dis
 
 
 
+http://omerbayraktar.com/2015/01/07/mosfet-ve-igbt-surme-teknikleri/
+
+
+
+
+
+
+
 
 
 
