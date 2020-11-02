@@ -124,3 +124,5 @@ https://elektronikhobi.net/assembly-programlamaspi-veri-transferi/
 
 
 http://embedded-lab.com/blog/lab-14-inter-integrated-circuit-i2c-communication/
+
+https://microcontrollerslab.com/i2c-communication-pic-microcontroller/
