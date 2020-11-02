@@ -110,3 +110,17 @@ https://simple-circuit.com/pic-mcu-ssd1306-dht22-mikroc/
 
 https://www.youtube.com/watch?v=Sytn4vCkptk
 https://elektronikhobi.net/assembly-programlamaspi-veri-transferi/
+
+
+
+
+
+
+
+
+
+
+
+
+
+http://embedded-lab.com/blog/lab-14-inter-integrated-circuit-i2c-communication/
