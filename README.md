@@ -147,3 +147,4 @@ https://microcontrollerslab.com/i2c-communication-pic-microcontroller/
 
 
 https://www.baranekrem.net/
+https://ozdisan.com/integrated-circuits-ics/power-management-ics/power-switches/VND600SP-E
