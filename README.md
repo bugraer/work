@@ -134,3 +134,16 @@ http://omerbayraktar.com/2015/01/07/mosfet-ve-igbt-surme-teknikleri/
 http://embedded-lab.com/blog/lab-14-inter-integrated-circuit-i2c-communication/
 
 https://microcontrollerslab.com/i2c-communication-pic-microcontroller/
+
+
+
+
+
+
+
+
+
+
+
+
+https://www.baranekrem.net/
