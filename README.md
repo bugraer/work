@@ -148,3 +148,12 @@ https://microcontrollerslab.com/i2c-communication-pic-microcontroller/
 https://rt-net.jp/mobility/archives/7831
 https://www.baranekrem.net/
 https://ozdisan.com/integrated-circuits-ics/power-management-ics/power-switches/VND600SP-E
+
+
+
+https://github.com/EmanuelFeru/bldc-motor-control-FOC
+https://www.mathworks.com/help/physmod/sps/ref/parktransform.html
+https://www.mathworks.com/help/physmod/sps/ref/pmsmfieldorientedcontrol.html
+https://www.mathworks.com/help/physmod/sps/ref/clarketransform.html
+https://www.mathworks.com/help/physmod/sps/ref/inductionmachinefieldorientedcontrol.html
+https://www.mathworks.com/solutions/power-electronics-control/clarke-and-park-transforms.html
