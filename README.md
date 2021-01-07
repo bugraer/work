@@ -157,3 +157,7 @@ https://www.mathworks.com/help/physmod/sps/ref/pmsmfieldorientedcontrol.html
 https://www.mathworks.com/help/physmod/sps/ref/clarketransform.html
 https://www.mathworks.com/help/physmod/sps/ref/inductionmachinefieldorientedcontrol.html
 https://www.mathworks.com/solutions/power-electronics-control/clarke-and-park-transforms.html
+
+
+
+http://hakkikaplan.blogspot.com/p/stm32f407-spi-kullanimi-baz-sensorler.html
