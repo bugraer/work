@@ -161,3 +161,6 @@ https://www.mathworks.com/solutions/power-electronics-control/clarke-and-park-tr
 
 
 http://hakkikaplan.blogspot.com/p/stm32f407-spi-kullanimi-baz-sensorler.html
+
+
+https://www.electronics-tutorials.ws/filter/filter_3.html
