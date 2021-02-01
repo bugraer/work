@@ -1,7 +1,7 @@
 # work
 https://roboturka.com/matlab/matlab-simulink-ile-stm32f4-servo-motor-kontrolu/
 
-
+https://www.dr.com.tr/Kitap/Guc-Elektronigi-Devrelerinin-Matlab-Simulink-Ile-Simulasyonu/Ders-Sinav-Kitaplari/Universite-Ders-Kitaplari/Teknik-Ders-Kitaplari/urunno=0001777287001
 
 
 
