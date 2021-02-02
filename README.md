@@ -5,7 +5,7 @@ https://www.dr.com.tr/Kitap/Guc-Elektronigi-Devrelerinin-Matlab-Simulink-Ile-Sim
 
 https://medium.com/ieee-trsb-pes/smps-switch-mode-power-supply-anahtarlamal%C4%B1-g%C3%BC%C3%A7-kayna%C4%9F%C4%B1-nedir-nas%C4%B1l-%C3%A7al%C4%B1%C5%9F%C4%B1r-e5002df22c64
 
-
+https://www.picproje.org/index.php/topic,37239.0.html
 
 
 
