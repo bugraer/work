@@ -1,4 +1,6 @@
 # work
+https://hasanyavuz.ozderya.net/?p=437
+
 https://roboturka.com/matlab/matlab-simulink-ile-stm32f4-servo-motor-kontrolu/
 https://diyot.net/0-30-v-kisa-devre-korumali-guc-kaynagi/
 https://www.dr.com.tr/Kitap/Guc-Elektronigi-Devrelerinin-Matlab-Simulink-Ile-Simulasyonu/Ders-Sinav-Kitaplari/Universite-Ders-Kitaplari/Teknik-Ders-Kitaplari/urunno=0001777287001
