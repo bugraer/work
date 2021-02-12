@@ -1,4 +1,9 @@
 # work
+https://www.youtube.com/channel/UCblvv6ZKB_ViJpUsaYZDavg
+
+
+
+
 https://hasanyavuz.ozderya.net/?p=437
 
 https://roboturka.com/matlab/matlab-simulink-ile-stm32f4-servo-motor-kontrolu/
