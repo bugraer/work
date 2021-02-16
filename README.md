@@ -1,4 +1,6 @@
 # work
+https://daycounter.com/Calculators/Heat-Sink-Temperature-Calculator.phtml
+https://mekatronik.org/forum/threads/sogutucu-hesaplamalari.1407/
 https://www.youtube.com/watch?v=kYZROvibWs8&ab_channel=DPNasika
 
 
