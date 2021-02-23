@@ -1,5 +1,5 @@
 # work
-https://www.firatdeveci.com/guc-elektroniginde-sic-silicon-carbide-cagi/
+https://dergipark.org.tr/en/download/article-file/1152976                              https://www.firatdeveci.com/guc-elektroniginde-sic-silicon-carbide-cagi/
 https://daycounter.com/Calculators/Heat-Sink-Temperature-Calculator.phtml
 https://mekatronik.org/forum/threads/sogutucu-hesaplamalari.1407/
 https://www.youtube.com/watch?v=kYZROvibWs8&ab_channel=DPNasika
