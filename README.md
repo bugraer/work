@@ -1,4 +1,15 @@
 # work
+https://320volt.com/elektronik-devre-animasyonlari-flash-delphi-c/                                                                                                   
+
+
+
+
+
+
+
+
+
+
 https://www.robotistan.com/cmod-a7-35t-breadboardable-artix-7-fpga-module
 https://www.robotistan.com/nexys4-ddr-artix-7-fpga-board
 https://ozdisan.com/maker-urunleri/gelistirme-platformlari/gelistirme-kitleri-ve-aksesuarlari/NUCLEO-F429ZI
