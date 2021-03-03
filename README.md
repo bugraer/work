@@ -2,7 +2,7 @@
 https://320volt.com/elektronik-devre-animasyonlari-flash-delphi-c/                                                                                                   
 
 
-
+https://www.empastore.com/stm32-islemci-kiti-nucleo-g071rb
 
 
 
