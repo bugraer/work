@@ -1,4 +1,8 @@
 # work
+
+https://qiita.com/motorcontrolman/items/5a9c17008314f0224ef9
+
+
 https://320volt.com/elektronik-devre-animasyonlari-flash-delphi-c/                                                                                                   
 
 
