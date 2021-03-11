@@ -2,7 +2,7 @@
 
 https://qiita.com/motorcontrolman/items/5a9c17008314f0224ef9
 http://dspace.kocaeli.edu.tr:8080/xmlui/bitstream/handle/11493/630/259445.pdf?sequence=1&isAllowed=y
-
+https://www.semanticscholar.org/paper/A-soft-switching-boost-converter-using-an-auxiliary-Song-Jung/787598366672556775d5e63b07a7c43ba6075a56
 https://320volt.com/elektronik-devre-animasyonlari-flash-delphi-c/                                                                                                   
 
 
