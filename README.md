@@ -1,3 +1,5 @@
+[SMPSRM-D-1999.pdf](https://github.com/bugraer/work/files/6141923/SMPSRM-D-1999.pdf)
+[SMPSRM-D-2002.pdf](https://github.com/bugraer/work/files/6141924/SMPSRM-D-2002.pdf)
 # work
 https://www.youtube.com/watch?v=QMSWUMEAejg
 https://qiita.com/motorcontrolman/items/5a9c17008314f0224ef9
