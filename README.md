@@ -1,6 +1,13 @@
 [SMPSRM-D-1999.pdf](https://github.com/bugraer/work/files/6141923/SMPSRM-D-1999.pdf)
 [SMPSRM-D-2002.pdf](https://github.com/bugraer/work/files/6141924/SMPSRM-D-2002.pdf)
 # work
+http://elektrotesisat.blogspot.com/2016/10/dogrudan-moment-kontrolu-direct-torque.html
+
+
+
+
+
+
 https://www.youtube.com/watch?v=QMSWUMEAejg
 https://qiita.com/motorcontrolman/items/5a9c17008314f0224ef9
 http://dspace.kocaeli.edu.tr:8080/xmlui/bitstream/handle/11493/630/259445.pdf?sequence=1&isAllowed=y
