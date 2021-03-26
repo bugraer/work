@@ -5,6 +5,7 @@
 http://elektrotesisat.blogspot.com/2016/10/dogrudan-moment-kontrolu-direct-torque.html
 
 
+![image](https://user-images.githubusercontent.com/67065146/112644972-0dd08380-8e57-11eb-917b-73dcd895c6f0.png)
 
 
 
