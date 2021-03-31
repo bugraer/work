@@ -3,7 +3,7 @@
 [SMPSRM-D-2002.pdf](https://github.com/bugraer/work/files/6141924/SMPSRM-D-2002.pdf)
 # work
 http://elektrotesisat.blogspot.com/2016/10/dogrudan-moment-kontrolu-direct-torque.html
-
+http://tahmidmc.blogspot.com/2013/01/using-high-low-side-driver-ir2110-with.html
 
 ![image](https://user-images.githubusercontent.com/67065146/112644972-0dd08380-8e57-11eb-917b-73dcd895c6f0.png)
 
