@@ -7,7 +7,7 @@ http://tahmidmc.blogspot.com/2013/01/using-high-low-side-driver-ir2110-with.html
 
 ![image](https://user-images.githubusercontent.com/67065146/112644972-0dd08380-8e57-11eb-917b-73dcd895c6f0.png)
 
-
+https://docs.microsoft.com/en-us/archive/msdn-magazine/2019/march/csharp-support-vector-machines-using-csharp
 
 
 https://www.youtube.com/watch?v=QMSWUMEAejg
